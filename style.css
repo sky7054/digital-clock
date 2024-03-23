@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(41, 39, 39);
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.mainDiv{
+    height: 50px;
+    width: 200px;
+    margin-top:20%;
+    margin-left: 42%;
+    padding-top:20px;
+    padding-left:30px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+}
+p{
+    font-size: 30px;
+    font-weight: 500;
+}
